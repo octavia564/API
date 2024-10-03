@@ -1,0 +1,48 @@
+.head{
+    color: aqua;
+    text-align:center
+}
+.text{
+    color: aqua;
+    text-align: center;
+    
+}
+
+
+.bg{
+    background-color: rgb(0, 0, 0);
+}
+.but{
+    font-size: 15pt;
+    width: 20em;
+    height: 5em;
+    color: aqua;
+    background-color: darkblue;
+    border-style:ridge;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50em;
+    margin-bottom: 3%;
+
+}
+.but:hover{
+    color: aqua;
+    background-color: rgb(8, 8, 200);
+}
+.image{
+    height: 50%;
+    width: 50%;
+    display: none; 
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.Image{
+    height: 80%;
+    width: 80%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
